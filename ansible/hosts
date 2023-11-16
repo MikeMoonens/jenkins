@@ -2,5 +2,5 @@
 timeapp ansible_host=10.0.2.4
 [servers:vars]
 ansible_user='devasc'
-ansible_password='labo' 
+ansible_password='ok' 
 
