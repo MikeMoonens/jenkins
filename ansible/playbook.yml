@@ -45,7 +45,7 @@
 
     - name: Clone repo 
       ansible.builtin.git:
-        repo: 'https://github.com/vbbryan/jenkins.git'
+        repo: 'https://github.com/mikemoonens/jenkins.git'
         dest: /srv/checkout
         clone: true
 
